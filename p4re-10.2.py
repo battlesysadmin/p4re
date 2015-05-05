@@ -16,3 +16,4 @@ for line in handle:
        
 for hour in sorted(dictionary):
     print hour, dictionary[hour]
+
